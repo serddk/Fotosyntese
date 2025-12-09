@@ -36,7 +36,7 @@ Projektet er bygget med fokus på ydeevne og en rig visuel oplevelse.
 
 1.  **Klon repository'et:**
     ```bash
-    git clone [https://github.com/DitBrugernavn/fotosyntese-onepage.git](https://github.com/DitBrugernavn/fotosyntese-onepage.git)
+    git clone [[https://github.com/DitBrugernavn/fotosyntese-onepage.git](https://github.com/DitBrugernavn/fotosyntese-onepage.git)](https://github.com/serddk/Fotosyntese.git)
     ```
 2.  **Åbn mappen:**
     ```bash
