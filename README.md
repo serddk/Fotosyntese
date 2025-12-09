@@ -30,22 +30,6 @@ Projektet er bygget med fokus på ydeevne og en rig visuel oplevelse.
 * **JavaScript:** Til at håndtere interaktivitet og udløse scroll-baserede animationer.
 * **SVG/Lottie:** Til letvægtsanimationer, der sikrer en flydende visualisering af de molekylære processer.
 
-## 🚀 Kom i gang
-
-### Kørsel af projektet
-
-1.  **Klon repository'et:**
-    ```bash
-    git clone [https://github.com/serddk/Fotosyntese.git]
-    ```
-2.  **Åbn mappen:**
-    ```bash
-    cd fotosyntese-onepage
-    ```
-3.  Sørg for, at dit skærmbillede (`Skærmbillede 2025-12-09 131155.png`) ligger i rodmappen, og åbn derefter `index.html` filen direkte i din webbrowser for at se websitet.
-
----
-
 ## 🤝 Bidrag
 
 Forslag og forbedringer er altid velkomne! Har du idéer til bedre animationer, klarere forklaringer eller rettelser, er du velkommen til at åbne et *Issue* eller sende et *Pull Request*.
