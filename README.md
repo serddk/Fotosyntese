@@ -1,11 +1,52 @@
 <div align="center">
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+# 🌿 Fotosyntese Mysteriet: Det Grønne Mirakel
 
-  <h1>Built with AI Studio</h2>
+**En interaktiv og sjov én-sides hjemmeside, der forklarer plantens mest vitale proces.**
 
-  <p>The fastest path from prompt to production with Gemini.</p>
-
-  <a href="https://aistudio.google.com/apps">Start building</a>
+![Skematisk illustration af fotosyntesen. Sollys, kuldioxid (CO2) og vand optages af planten, som producerer ilt (O2) og sukker.](Skærmbillede%202025-12-09%20131155.png)
 
 </div>
+
+---
+
+## ✨ Introduktion
+
+Velkommen til et pædagogisk webprojekt, der har til formål at gøre fotosyntesen nem og engagerende at forstå. Ved at bruge moderne webteknologier visualiseres de komplekse kemiske reaktioner, der finder sted i kloroplasten, gennem **animationer** og **brugerstyret interaktivitet**.
+
+Dette er den **hurtigste vej fra nysgerrighed til forståelse** af, hvordan planter omdanner sollys, vand ($\text{H}_2\text{O}$) og kuldioxid ($\text{CO}_2$) til energi (glukose/sukker) og livsvigtig ilt ($\text{O}_2$).
+
+## 💡 Hovedfeatures
+
+* **Trin-for-Trin Læring:** Siden er designet som en guidet tur, hvor brugeren aktivt interagerer for at afsløre de næste faser af fotosyntesen.
+* **Klar Visualisering:** Detaljerede, men letforståelige animationer illustrerer den **lysfølsomme reaktion** og **Calvin-cyklus**.
+* **Enkel Terminologi:** Biologiske termer som klorofyl, ATP, og glukose forklares i et tilgængeligt sprog.
+* **Responsivt Design:** Perfekt læringsoplevelse på alle skærmstørrelser (desktop, tablet og mobil).
+
+## 🛠️ Teknologier Anvendt
+
+Projektet er bygget med fokus på ydeevne og en rig visuel oplevelse.
+
+* **HTML5 & CSS3 (SCSS):** Solid struktur og moderne styling.
+* **JavaScript:** Til at håndtere interaktivitet og udløse scroll-baserede animationer.
+* **SVG/Lottie:** Til letvægtsanimationer, der sikrer en flydende visualisering af de molekylære processer.
+
+## 🚀 Kom i gang
+
+### Kørsel af projektet
+
+1.  **Klon repository'et:**
+    ```bash
+    git clone [https://github.com/DitBrugernavn/fotosyntese-onepage.git](https://github.com/DitBrugernavn/fotosyntese-onepage.git)
+    ```
+2.  **Åbn mappen:**
+    ```bash
+    cd fotosyntese-onepage
+    ```
+3.  Sørg for, at dit skærmbillede (`Skærmbillede 2025-12-09 131155.png`) ligger i rodmappen, og åbn derefter `index.html` filen direkte i din webbrowser for at se websitet.
+
+---
+
+## 🤝 Bidrag
+
+Forslag og forbedringer er altid velkomne! Har du idéer til bedre animationer, klarere forklaringer eller rettelser, er du velkommen til at åbne et *Issue* eller sende et *Pull Request*.
