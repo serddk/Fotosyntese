@@ -4,7 +4,6 @@
 
 **En interaktiv og sjov én-sides hjemmeside, der forklarer plantens mest vitale proces.**
 
-![Skematisk illustration af fotosyntesen. Sollys, kuldioxid (CO2) og vand optages af planten, som producerer ilt (O2) og sukker.](Skærmbillede%202025-12-09%20131155.png)
 
 </div>
 
